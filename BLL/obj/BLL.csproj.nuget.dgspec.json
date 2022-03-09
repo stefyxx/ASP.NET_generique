@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\BLL\\BLL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\BLL\\BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\s.mauti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s.mauti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj"
+              },
+              "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\s.mauti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s.mauti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\s.mauti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\s.mauti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\s.mauti\\Desktop\\PHP_Symphony\\New folder\\ASP.NET_generique\\Asp_MVC_visuel\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

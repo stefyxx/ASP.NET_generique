@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\BLL.deps.json
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\BLL.dll
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\BLL.pdb
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.AssemblyInfo.cs
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.dll
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.pdb
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\Common.dll
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\DAL.dll
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\Common.pdb
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Users\fabio\Desktop\asp_net\Asp_MVC_visuel\BLL\obj\Debug\netstandard2.1\BLL.csproj.CopyComplete
